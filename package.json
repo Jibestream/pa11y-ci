@@ -1,6 +1,6 @@
 {
   "name": "@kschaefer/pa11y-ci",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Pa11y CI is a CI-centric accessibility test runner, built using Pa11y",
   "keywords": [],
   "author": "Team Pa11y",
@@ -29,7 +29,7 @@
     "node-fetch": "~2.6.0",
     "pa11y": "~5.3.0",
     "protocolify": "~3.0.0",
-    "puppeteer": "5.5.0",
+    "puppeteer": "https://github.com/yvkschaefer/puppeteer/tarball/main",
     "wordwrap": "~1.0.0"
   },
   "devDependencies": {
